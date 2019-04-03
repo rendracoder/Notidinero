@@ -1,0 +1,2 @@
+# Notidinero
+auto bot
